@@ -1,0 +1,28 @@
+@relation comornote-weka.filters.unsupervised.attribute.NumericToNominal-Rfirst-last
+
+@attribute Gender {male,female}
+@attribute Age {1,2,3,4}
+@attribute Education {1,2,3}
+@attribute Income {1,2,3,4}
+@attribute Working_hours {1,2}
+@attribute objective {1,2,3,4}
+@attribute frequency_work {1,2,3}
+@attribute Location_of_use {1,2}
+@attribute computer_or_notebook_for_use {1,2}
+@attribute Where_to_buy {1,2,4,5}
+@attribute How_to_buy {1,2}
+@attribute Reasons {1,2,3}
+@attribute choosing_to_buy {1,2,3}
+@attribute motive {1,2}
+@attribute class {com,note}
+
+@data
+
+male,2,3,1,2,4,1,2,1,1,2,2,3,2,com
+female,1,1,3,2,3,3,1,2,2,2,2,3,2,note
+female,1,2,3,2,3,2,1,2,4,2,2,1,1,note
+male,4,2,3,1,3,3,1,2,2,1,3,1,1,com
+female,3,2,4,2,2,3,2,2,2,1,2,2,1,com
+female,2,1,4,2,2,1,1,2,5,2,2,1,1,note
+male,1,2,2,1,2,1,1,2,2,1,2,2,1,note
+male,1,1,1,1,1,1,1,1,1,1,1,1,1,?

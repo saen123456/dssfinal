@@ -1,0 +1,9 @@
+Gender,Age,Education,Income,Working_hours,objective,frequency_work,Location_of_use,computer_or_notebook_for_use,Where_to_buy,How_to_buy,Reasons,choosing_to_buy,motive,class
+male,2,3,1,2,4,1,2,1,1,2,2,3,2,com
+female,1,1,3,2,3,3,1,2,2,2,2,3,2,note
+female,1,2,3,2,3,2,1,2,4,2,2,1,1,note
+male,4,2,3,1,3,3,1,2,2,1,3,1,1,com
+female,3,2,4,2,2,3,2,2,2,1,2,2,1,com
+female,2,1,4,2,2,1,1,2,5,2,2,1,1,note
+male,1,2,2,1,2,1,1,2,2,1,2,2,1,note
+male,1,1,1,1,1,1,1,1,1,1,1,1,1,?
